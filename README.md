@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kumawatdk
 - 👀 I’m interested in AWS Cloud
 - 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m looking to collaborate on Work on project
 - 📫 How to reach me gmail- ds0916047@gmail.com
 
 <!---
